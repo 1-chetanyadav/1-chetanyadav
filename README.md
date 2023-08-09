@@ -1,6 +1,4 @@
 ![logo](https://github.com/yadavcheta/yadavcheta/blob/main/chetan%20logo.png)
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Chetan Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
