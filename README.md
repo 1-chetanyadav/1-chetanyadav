@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/god_chetan](https://linktr.ee/god_chetan)
+- 👨‍💻 All of my accounts are available at [https://linktr.ee/god_chetan](https://linktr.ee/god_chetan)
 
 - 📝 I regularly write articles on [https://lnctbca.blogspot.com/](https://lnctbca.blogspot.com/)
 
