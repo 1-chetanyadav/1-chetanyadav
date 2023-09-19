@@ -35,7 +35,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="[https://rm.up.railway.app](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thecoderpedia.com%2Fblog%2Fprogramming-memes%2F&psig=AOvVaw3aWIMZ2MOc2a3xthzb8WBY&ust=1695203773538000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDdkae0toEDFQAAAAAdAAAAABAE)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yadavcheta&icon=4&color=4)](https://visitcount.itsvg.in)
