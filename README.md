@@ -2,15 +2,24 @@
 <h1 align="center">Hi 👋, I'm Chetan Yadav</h1>
 <h3 align="center">A passionate Cybersecurity Student and Python Developer from India</h3>
 
-- 🔭 I’m currently working on **Python && Cybersecurity Certifications**
+Aspiring SDET / Automation Engineer
 
-- 🌱 I’m currently learning **AR/VR Development**
+- Python Automation
+- API Testing
+- Playwright
+- PyTest
+- CI/CD
+- Git & GitHub
 
+Currently building:
+- API automation projects
+- Playwright testing frameworks
+- Backend validation tools
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=1-chetanyadav&theme=cyber-streakglow&border_radius=5.1)](https://git.io/streak-stats)
 - 👨‍💻 All of my accounts are available at [https://linktr.ee/god_chetan](https://linktr.ee/god_chetan)
 
 - 📝 I regularly write articles for collage semester on [https://lnctbca.blogspot.com/](https://lnctbca.blogspot.com/)
-
-- 💬 Ask me about **C++ , PYTHON , Cyber Security , AI , Brainstorming question**
 
 - 📫 How to reach me **chetan482yadav@gmail.com**
 
