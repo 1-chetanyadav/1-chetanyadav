@@ -16,9 +16,7 @@ Currently building:
 - Playwright testing frameworks
 - Backend validation tools
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=1-chetanyadav&theme=cyber-streakglow&border_radius=5.1)](https://git.io/streak-stats)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=1-chetanyadav&theme=radical&background=EB5513&border=154EEB&stroke=EB5454&ring=EB5454" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=1-chetanyadav&theme=dracula&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=775)](https://git.io/streak-stats)
 
 - 👨‍💻 All of my accounts are available at [https://linktr.ee/god_chetan](https://linktr.ee/god_chetan)
 
@@ -50,12 +48,10 @@ Currently building:
 <img src="[https://rm.up.railway.app](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thecoderpedia.com%2Fblog%2Fprogramming-memes%2F&psig=AOvVaw3aWIMZ2MOc2a3xthzb8WBY&ust=1695203773538000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDdkae0toEDFQAAAAAdAAAAABAE)" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yadavcheta&icon=4&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=yadavcheta&icon=4&color=4)] (https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavcheta&show_icons=true&locale=en&layout=compact" alt="yadavcheta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavcheta&show_icons=true&locale=en" alt="yadavcheta" /></p>
 
