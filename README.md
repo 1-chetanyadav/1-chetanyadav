@@ -17,6 +17,9 @@ Currently building:
 - Backend validation tools
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=1-chetanyadav&theme=cyber-streakglow&border_radius=5.1)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=1-chetanyadav&theme=radical&background=EB5513&border=154EEB&stroke=EB5454&ring=EB5454" alt="GitHub Streak" /></a>
+
 - 👨‍💻 All of my accounts are available at [https://linktr.ee/god_chetan](https://linktr.ee/god_chetan)
 
 - 📝 I regularly write articles for collage semester on [https://lnctbca.blogspot.com/](https://lnctbca.blogspot.com/)
